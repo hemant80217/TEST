@@ -1,1 +1,2 @@
-print("TESTING")
+print("TESTING");
+print("hEELO")
